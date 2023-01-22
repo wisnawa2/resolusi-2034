@@ -3,6 +3,8 @@ we need some Folders
 1. images
 2. assets
 3. CSS
+  inside folder CSS/files:
+  1. style.css
 we need some code files
 1. index.html
 2. javascript.js
