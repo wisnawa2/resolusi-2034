@@ -1,11 +1,14 @@
 Planning files and folder for website coffee shop
 we need some Folders
 1. images
+  inside of folder images\icons\:
 2. assets
-  inside of folders assets/bootstrap-5.2/js:
+  inside folder assets\bootstrap-4.2.1-dist\css:
+  - bootstrap.min.css
+  inside of folders assets\bootstrap-5.2\js:
   - bootstrap.bundle.min.js
 3. CSS
-  inside folder CSS/files:
+  inside folder CSS\files:
   1. style.css
 we need some code files
 1. index.html
